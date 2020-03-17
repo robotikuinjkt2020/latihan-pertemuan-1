@@ -1,0 +1,6 @@
+print("Please Insert the first Number:")
+userInput = input()
+print("Please Insert the second Number:")
+userInput2 = input()
+hasil = int(userInput) + int(userInput2)
+print("\n"+userInput+" + "+userInput2+" = "+str(hasil))

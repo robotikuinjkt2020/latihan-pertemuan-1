@@ -1,5 +1,3 @@
-# latihan-pertemuan-1
-Repository utk latihan pertemuan 1
 
 def Tambah(x, y):
    return x + y
@@ -8,8 +6,10 @@ def Tambah(x, y):
 def Kurang(x, y):
    return x - y
 
+
 def Kali(x, y):
    return x * y
+
 
 def Bagi(x, y):
    return x / y

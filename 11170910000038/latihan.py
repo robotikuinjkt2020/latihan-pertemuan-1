@@ -3,7 +3,7 @@
 x=int(input("Masukkan x: "))
 y=int(input("Masukkan y: "))
 
-print("x + y = " + str(x+y))
-print("x - y = " + str(x-y))
-print("x X y = " + str(x*y))
-print("x : y = " + str(x//y) + " sisa " + str(x%y))
+print(x,' + ',y, ' = ',(x+y))
+print(x,' - ',y, ' = ',(x-y))
+print(x,' X ',y, ' = ',(x*y))
+print(x,' : ',y, ' = ',(x//y),  ' sisa ',(x%y))

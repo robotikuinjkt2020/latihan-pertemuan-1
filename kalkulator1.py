@@ -1,3 +1,5 @@
+from pip._vendor.distlib.compat import raw_input
+
 def penjumlahan(a, b):
     penjumlahan = float(a) + float(b)
     return penjumlahan
